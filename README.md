@@ -7,6 +7,10 @@
 I wanted to make a simple app which detects basic elements in an image
 selected by the user
 
+<p align="center">
+  <img src="project_idea.jpg">
+</p>
+
 ## Approach
 - I went with Microsoft Azure computer vision API for my application. I went with
 the free version as it was a hobby project and I did not have so much money to
