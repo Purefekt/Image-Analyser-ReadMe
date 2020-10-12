@@ -9,7 +9,7 @@
 3. [Details about the application](https://github.com/Purefekt/Image-Analyser-ReadMe#details-about-the-application)
 4. [Hierarchy](https://github.com/Purefekt/Image-Analyser-ReadMe#hierarchy)
 5. [Building the application](https://github.com/Purefekt/Image-Analyser-ReadMe#building-the-application)
-6. [Issues faces](https://github.com/Purefekt/Image-Analyser-ReadMe#issues-faces)
+6. [Issues faced](https://github.com/Purefekt/Image-Analyser-ReadMe#issues-faced)
 
 ## Project idea
 I wanted to make a simple app which detects basic elements in an image
@@ -93,7 +93,7 @@ finally able to debug it and in the end I implemented the shake detection into
 the testt app, added some more basic activities like “NotWorking” activity and
 “AboutPage” activity and my app was ready.
 
-## Issues faces
+## Issues faced
 My testt app kept crashing any time I chose an image and ran the
 analyser. The image analyser kept failing and crashing because it had a null pointer
 exception. At this point my image analyser was running inside onCreate method and my
