@@ -66,7 +66,9 @@ colors - FFAD05 and 004532 (Hex).
 
 ## Hierarchy
 
--------------------------------------
+<p align="center">
+  <img src="hierarchy.jpg">
+</p>
 
 ## Building the application
 - I started with making an app which simply analysis a hard-coded image from the
